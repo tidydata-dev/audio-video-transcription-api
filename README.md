@@ -1,6 +1,6 @@
 # Audio & video transcription API — Whisper, SRT & VTT (examples)
 
-Transcribe **audio and video files** (MP3, M4A, WAV, OGG, FLAC, MP4, MOV, WebM…) or the latest episodes of **podcast RSS feeds** into text, timestamped segments and **SRT / VTT subtitles**. Powered by **Whisper large-v3-turbo**, **99 languages** with auto-detection, files up to 700 MB. Hosted on Apify: **[Audio & Video Transcription](https://apify.com/tidydata/audio-video-transcription)** — **$3 per 1,000 minutes** (a 1-hour file ≈ $0.18). No GPU, no OpenAI key.
+Transcribe **audio and video files** (MP3, M4A, WAV, OGG, FLAC, MP4, MOV, WebM…) or the latest episodes of **podcast RSS feeds** into text, timestamped segments and **SRT / VTT subtitles**. Powered by **Whisper large-v3-turbo**, **99 languages** with auto-detection, files up to 700 MB. Hosted on Apify: **[Audio & Video Transcription](https://apify.com/tidydata/audio-video-transcription)** — **$5 per 1,000 minutes** (a 1-hour file ≈ $0.30). No GPU, no OpenAI key.
 
 ## Python
 
@@ -28,6 +28,6 @@ More: [`examples/podcast_feed.py`](examples/podcast_feed.py) (latest episodes of
 
 ## YouTube?
 
-Use the **[YouTube Transcript Scraper](https://apify.com/tidydata/youtube-transcript-scraper)** — it reads YouTube captions for videos, playlists and channels ($2 per 1,000 videos). Code examples: [tidydata-dev/youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper).
+Use the **[YouTube Transcript Scraper](https://apify.com/tidydata/youtube-transcript-scraper)** — it reads YouTube captions for videos, playlists and channels ($0.50 per 1,000 videos). Code examples: [tidydata-dev/youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper).
 
 Examples are MIT-licensed.
